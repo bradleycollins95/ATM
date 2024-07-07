@@ -86,3 +86,18 @@ The entry point of the application, providing a simple banking system interface.
 3. Run the application
    java Main
 4. Follow the on-screen instructions to log in and manage your accounts.
+
+   ```bash
+   Welcome to the bank!
+   Please enter your login details:
+
+   Please enter your username: username123
+   Please enter your password: password
+
+   Please select from the following options:
+   ----------------------------------------------
+   1. View Balance
+   2. Deposit
+   3. Withdraw
+   ----------------------------------------------
+
